@@ -1,6 +1,6 @@
 ### Hello there, I'm Marcin👋
 
-A physicist who fell in love with programming, currently on his way to becoming a Python developer.
+A physicist who fell in love with programming, currently on his way to become full fledged Python developer.
 
 - 📈 I’m currently learning Django REST framework and React
 - 📫 How to reach me: marcinmrubin@gmail.com
